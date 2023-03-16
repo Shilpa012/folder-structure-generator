@@ -1,0 +1,17 @@
+.content-box{
+  border: 2px solid black;
+  padding: 10px;
+  margin-left: auto;
+  margin-top: 20px;
+  margin-right: auto;
+  width: 28em
+}
+
+
+.folder{
+  color: blue;
+}
+
+.file{
+  color: rgb(245, 20, 95);
+}
